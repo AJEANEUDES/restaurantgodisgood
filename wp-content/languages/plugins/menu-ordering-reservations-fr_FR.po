@@ -1,0 +1,711 @@
+# Translation of Plugins - Restaurant Menu &#8211; Food Ordering System &#8211; Table Reservation - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Restaurant Menu &#8211; Food Ordering System &#8211; Table Reservation - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-15 09:14:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Restaurant Menu &#8211; Food Ordering System &#8211; Table Reservation - Stable (latest release)\n"
+
+#: includes/modules/shortcodes/class-glf-module-shortcodes.php:322
+msgid "Conditions"
+msgstr "Conditions"
+
+#: includes/modules/elementor/widgets/promotions/class-glf-module-elementor-promotions-widget.php:100
+#: includes/modules/gutenberg/assets/js/promotions/index.js:122
+msgid "Layout"
+msgstr "Mise en page"
+
+#: includes/modules/elementor/widgets/promotions/class-glf-module-elementor-promotions-widget.php:36
+#: includes/modules/gutenberg/assets/js/promotions/index.js:46
+msgid "Promotions"
+msgstr "Promotions"
+
+#: includes/modules/elementor/widgets/opening-hours/class-glf-module-elementor-opening-hours-widget.php:103
+msgid "Type your title here"
+msgstr "Saisir votre titre ici"
+
+#: includes/modules/elementor/widgets/opening-hours/class-glf-module-elementor-opening-hours-widget.php:102
+msgid "Default title"
+msgstr "Titre par défaut"
+
+#: includes/modules/elementor/widgets/opening-hours/class-glf-module-elementor-opening-hours-widget.php:100
+msgid "Title"
+msgstr "Titre"
+
+#: includes/admin/settings/settings.php:157
+msgid "Hit Refresh promotions to publish your promotions edits on the website."
+msgstr "Cliquer sur \"Actualiser les promotion\"s pour publier les modifications des promotions sur le site Web."
+
+#: includes/admin/settings/settings.php:156
+msgid "Refresh promotions"
+msgstr "Actualiser les promotions"
+
+#: includes/admin/settings/settings.php:149
+msgid "Promotions Shortcode"
+msgstr "Shortcode des promotions"
+
+#: includes/modules/shortcodes/class-glf-module-shortcodes.php:228
+msgid "Tuesday"
+msgstr "Mardi"
+
+#: includes/modules/shortcodes/class-glf-module-shortcodes.php:227
+msgid "Monday"
+msgstr "Lundi"
+
+#: includes/modules/shortcodes/class-glf-module-shortcodes.php:222
+msgid "Delivery Service"
+msgstr "Service de livraison"
+
+#: includes/modules/shortcodes/class-glf-module-shortcodes.php:221
+msgid "Pickup Service"
+msgstr "Click & Collect"
+
+#: includes/modules/elementor/widgets/opening-hours/class-glf-module-elementor-opening-hours-widget.php:36
+#: includes/modules/shortcodes/class-glf-module-shortcodes.php:220
+#: includes/modules/gutenberg/assets/js/opening-hours/index.js:36
+msgid "Opening Hours"
+msgstr "Heures d’ouverture"
+
+#: includes/admin/settings/settings.php:221
+msgid "Become a super contributor by opting in to share non-sensitive plugin data and to receive periodic email updates from us."
+msgstr "Devenez un super contributeur en choisissant de partager des données non sensibles de l’extension et de recevoir des e-mails périodiques de nos mises à jour."
+
+#: includes/admin/settings/settings.php:189
+msgid "You are already logged in"
+msgstr "Vous êtes déjà connecté"
+
+#: includes/modules/shortcodes/class-glf-module-shortcodes.php:233
+msgid "Sunday"
+msgstr "Dimanche"
+
+#: includes/modules/shortcodes/class-glf-module-shortcodes.php:232
+msgid "Saturday"
+msgstr "Samedi"
+
+#: includes/modules/shortcodes/class-glf-module-shortcodes.php:231
+msgid "Friday"
+msgstr "Vendredi"
+
+#: includes/modules/shortcodes/class-glf-module-shortcodes.php:230
+msgid "Thursday"
+msgstr "Jeudi"
+
+#: includes/modules/shortcodes/class-glf-module-shortcodes.php:229
+msgid "Wednesday"
+msgstr "Mercredi"
+
+#: includes/admin/settings/settings.php:204
+msgid "Installation ID"
+msgstr "Installation ID"
+
+#: includes/admin/settings/settings.php:137
+msgid "Hit Refresh menu to publish your menu edits on the website."
+msgstr "Cliquez sur Actualiser le menu pour publier vos modifications de menu sur le site Web."
+
+#: includes/admin/settings/settings.php:136
+msgid "Refresh menu"
+msgstr "Actualiser le menu"
+
+#: includes/admin/helper/class-glf-helper-screens.php:740
+msgid "Now let's add the Menu widget"
+msgstr "Ajoutons maintenant le widget Menu"
+
+#: includes/modules/elementor/widgets/reservations/class-glf-module-elementor-reservations-widget.php:29
+msgid "Reservations (deprecated)"
+msgstr "Réservations (obsolète)"
+
+#: includes/modules/elementor/widgets/menu-ordering/class-glf-module-elementor-ordering-widget.php:29
+msgid "Ordering (deprecated)"
+msgstr "Commande (obsolète)"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:405
+msgid "Padding"
+msgstr "Marges internes"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:385
+msgid "Border Radius"
+msgstr "Arrondit de bordure"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:364
+msgid "Hover Animation"
+msgstr "Animation au survol"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:350
+msgid "Border Color"
+msgstr "Couleur de bordure"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:315
+msgid "Hover"
+msgstr "Au survol"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:293
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:335
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:280
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:322
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:273
+msgid "Normal"
+msgstr "Normale"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:244
+msgid "Button"
+msgstr "Bouton"
+
+#. translators: %1$s Code open tag, %2$s: Code close tag.
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:230
+msgid "Please make sure the ID is unique and not used elsewhere on the page this form is displayed. This field allows %1$sA-z 0-9%2$s & underscore chars without spaces."
+msgstr "Veuillez vous assurer que l’ID est unique et qu’il n’est pas utilisé ailleurs sur la page où ce formulaire est affiché. Ce champ autorise les caractères %1$sA-z 0-9%2$s & le tiret bas sans espaces."
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:227
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
+msgstr "Ajouter votre ID personnalisé SANS la clé Pound. Par exemple : my-id"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:221
+msgid "Button ID"
+msgstr "ID du bouton"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:212
+msgid "View"
+msgstr "Afficher"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:195
+msgid "Icon Spacing"
+msgstr "Espacement de l’icône"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:184
+msgid "After"
+msgstr "Après"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:183
+msgid "Before"
+msgstr "Avant"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:179
+msgid "Icon Position"
+msgstr "Position de l’icône"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:168
+msgid "Icon"
+msgstr "Icône"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:157
+msgid "Size"
+msgstr "Taille"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:145
+msgid "Justified"
+msgstr "Justifié"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:141
+msgid "Right"
+msgstr "Droite "
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:137
+msgid "Center"
+msgstr "﻿Centré"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:133
+msgid "Left"
+msgstr "A gauche"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:129
+msgid "Alignment"
+msgstr "Alignement"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:116
+msgid "Text"
+msgstr "Texte"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:81
+msgid "Click here"
+msgstr "Cliquez ici"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:70
+msgid "Large"
+msgstr "Grand"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:71
+msgid "Extra Large"
+msgstr "Très grand"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:69
+msgid "Medium"
+msgstr "Moyen"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:68
+msgid "Small"
+msgstr "Petit"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:67
+msgid "Extra Small"
+msgstr "Très petit"
+
+#: includes/modules/elementor/class-glf-module-elementor.php:66
+msgid "Gloria Food - Deprecated Widgets"
+msgstr "Gloria Food - Widgets obsolètes"
+
+#: includes/modules/shortcodes/class-glf-module-shortcodes.php:146
+msgid "From"
+msgstr "À partir de"
+
+#: includes/admin/settings/settings.php:63
+msgid "Account"
+msgstr "Compte"
+
+#: includes/admin/settings/settings.php:62
+msgid "Customize Widgets"
+msgstr "Personnaliser les widgets"
+
+#: includes/admin/screens/screen_options.php:104
+msgid "Continue setting up online ordering"
+msgstr "Continuer la configuration de la commande en ligne"
+
+#: includes/admin/screens/screen_options.php:101
+msgid "You can now continue to setup the rest of the account"
+msgstr "Vous pouvez maintenant continuer à configurer le reste du compte"
+
+#: includes/admin/screens/screen_options.php:99
+msgid "Your restaurant profile is already setup"
+msgstr "Votre profil restaurant est déjà configuré"
+
+#: includes/admin/screens/screen_options.php:56
+msgid "You will receive an email message with instructions on how to reset your password."
+msgstr "Vous allez recevoir un e-mail avec les instructions de réinitialiser votre mot de passe."
+
+#: includes/admin/overview/overview_top_bar.php:22
+msgid "Start Setup"
+msgstr "Démarrer la configuration"
+
+#: includes/admin/overview/overview_top_bar.php:17
+msgid "Choose Options"
+msgstr "Choisir les options"
+
+#: includes/admin/overview/overview_top_bar.php:12
+msgid "GloriaFood Account"
+msgstr "Compte GloriaFood"
+
+#: includes/admin/overview/overview_screen_options.php:218
+msgid "Yes, I'm interested"
+msgstr "Oui, je suis intéressé"
+
+#: includes/admin/overview/overview_screen_options.php:217
+msgid "Not now"
+msgstr "Pas maintenant"
+
+#: includes/admin/overview/overview_screen_options.php:210
+msgid "Are you interested in being part of the Partner Program?"
+msgstr "Souhaitez-vous rejoindre notre programme partenaires ?"
+
+#: includes/admin/overview/overview_screen_options.php:201
+msgid "Join Partner Program and earn"
+msgstr "Rejoignez le programme de partenariat"
+
+#: includes/admin/overview/overview_screen_options.php:185
+#: includes/admin/screens/screen_options.php:41
+msgid "Continue"
+msgstr "Poursuivre"
+
+#: includes/admin/overview/overview_screen_options.php:150
+#: includes/admin/screens/screen_options.php:12
+msgid "Choose the features that you need"
+msgstr "Choisissez les fonctionnalités dont vous avez besoin"
+
+#: includes/admin/overview/overview_screen_options.php:149
+#: includes/admin/screens/screen_options.php:11
+msgid "Select what options you want to setup"
+msgstr "Sélectionnez les options que vous souhaitez configurer"
+
+#: includes/admin/overview/overview_screen_options.php:134
+#: includes/admin/screens/screen_options.php:76
+msgid "Don’t share"
+msgstr "Ne pas partager"
+
+#: includes/admin/overview/overview_screen_options.php:127
+#: includes/admin/screens/screen_options.php:73
+#: includes/admin/settings/settings.php:221
+msgid "Learn more"
+msgstr "En savoir plus"
+
+#: includes/admin/overview/overview_screen_options.php:127
+#: includes/admin/screens/screen_options.php:73
+msgid "Become a super contributor by opting in to share non-sensitive plugin data."
+msgstr "Devenez un super contributeur en choisissant de partager des données de l’extension non sensibles et obtenir nos mises à jour."
+
+#: includes/admin/overview/overview_screen_options.php:124
+#: includes/admin/screens/screen_options.php:70
+#: includes/admin/settings/settings.php:219
+msgid "Help us improve GloriaFood"
+msgstr "Aidez-nous à améliorer GloriaFood"
+
+#: includes/admin/overview/overview_authenticate.php:208
+msgid "Login into your existing account"
+msgstr "Connectez-vous à votre compte existant"
+
+#: includes/admin/overview/overview_authenticate.php:204
+msgid "terms & privacy policy"
+msgstr "Conditions et politique de confidentialité"
+
+#: includes/admin/overview/overview_authenticate.php:198
+msgid "Create account"
+msgstr "Créer un compte"
+
+#: includes/admin/overview/overview_authenticate.php:164
+msgid "Last Name"
+msgstr "Nom de Famille"
+
+#: includes/admin/overview/overview_authenticate.php:158
+msgid "First Name"
+msgstr "Prénom"
+
+#: includes/admin/overview/overview_authenticate.php:146
+msgid "Restaurant Name"
+msgstr "Nom du Restaurant"
+
+#: includes/admin/overview/overview_authenticate.php:140
+msgid "Let’s start by creating a GloriaFood account"
+msgstr "Commençons par créer un compte GloriaFood"
+
+#: includes/admin/overview/overview_authenticate.php:124
+msgid "Get New Password"
+msgstr "Obtenir un nouveau mot de passe"
+
+#: includes/admin/overview/overview_authenticate.php:100
+msgid "Create a new account"
+msgstr "Créer un nouveau compte"
+
+#: includes/admin/overview/overview_authenticate.php:99
+msgid "Lost your password"
+msgstr "Mot de passe oublié ?"
+
+#: includes/admin/overview/overview_authenticate.php:48
+msgid "Log in to your account"
+msgstr "Connectez-vous à votre compte."
+
+#: includes/admin/overview/overview.php:90
+#: includes/admin/overview/overview_screen_options.php:245
+#: includes/admin/screens/screen_options.php:92
+msgid "Start the setup"
+msgstr "Démarrer la configuration"
+
+#: includes/admin/overview/overview.php:87
+#: includes/admin/overview/overview_screen_options.php:233
+#: includes/admin/screens/screen_options.php:89
+msgid "You will now need to go to GloriaFood Admin in order to setup your restaurant profile. After finishing the setup you can come back and add the widgets on your website."
+msgstr "Vous devrez maintenant vous rendre sur GloriaFood Admin afin de configurer votre profil de restaurant. Une fois la configuration terminée, vous pouvez revenir et ajouter les widgets sur votre site Web."
+
+#: includes/admin/overview/overview.php:85
+#: includes/admin/overview/overview_screen_options.php:231
+#: includes/admin/screens/screen_options.php:87
+msgid "Admin setup"
+msgstr "Configuration administrateur"
+
+#: includes/admin/overview/overview.php:60
+msgid "TO DO"
+msgstr "À FAIRE"
+
+#: includes/admin/overview/overview.php:48
+msgid "You can change the restaurant for which you want to configure"
+msgstr "Vous pouvez changer le restaurant pour lequel vous souhaitez configurer"
+
+#: includes/admin/helper/class-glf-helper-screens.php:732
+msgid "Now let's add a Reservation button"
+msgstr "Ajoutons maintenant un bouton de réservation"
+
+#: includes/admin/helper/class-glf-helper-screens.php:724
+msgid "Let's start by adding the Ordering button"
+msgstr "Commençons par ajouter le bouton Commander"
+
+#: includes/admin/helper/class-glf-helper-screens.php:720
+msgid "How to use GloriaFood widgets"
+msgstr "Comment utiliser les widgets GloriaFood"
+
+#: includes/admin/helper/class-glf-helper-screens.php:695
+msgid "Dismiss"
+msgstr "Ignorer"
+
+#: includes/admin/helper/class-glf-helper-screens.php:660
+msgid "Enroll into Partner Program"
+msgstr "Inscrivez-vous au programme partenaire"
+
+#: includes/admin/helper/class-glf-helper-screens.php:644
+msgid "Enable & Configure Autopilot"
+msgstr "Activer et configurer le pilote automatique"
+
+#: includes/admin/helper/class-glf-helper-screens.php:641
+msgid "Autopilot Marketing Campaign"
+msgstr "Campagne marketing en pilote automatique"
+
+#: includes/admin/helper/class-glf-helper-screens.php:628
+msgid "Upgrade & Enable online payments"
+msgstr "Mettre à niveau et activer les paiements en ligne"
+
+#: includes/admin/helper/class-glf-helper-screens.php:612
+msgid "Add Facebook Order Button"
+msgstr "Ajouter un bouton de commande sur Facebook"
+
+#: includes/admin/helper/class-glf-helper-screens.php:596
+msgid "Invite clients to order online"
+msgstr "Inviter les clients à commander en ligne"
+
+#: includes/admin/helper/class-glf-helper-screens.php:583
+msgid "Advertise with flyers"
+msgstr "Faites de la publicité avec des flyers"
+
+#: includes/admin/helper/class-glf-helper-screens.php:570
+msgid "Encourage first order"
+msgstr "Encouragez la première commande"
+
+#: includes/admin/helper/class-glf-helper-screens.php:560
+msgid "Kick-start ordering"
+msgstr "Lancer la commande"
+
+#: includes/admin/helper/class-glf-helper-screens.php:531
+msgid "Add a menu section on a page"
+msgstr "Ajouter une section Menu sur une page"
+
+#: includes/admin/helper/class-glf-helper-screens.php:528
+msgid "Menu Widget"
+msgstr "Widget Menu"
+
+#: includes/admin/helper/class-glf-helper-screens.php:515
+msgid "Add a reservations button on a page"
+msgstr "Ajouter un bouton de réservation sur une page"
+
+#: includes/admin/helper/class-glf-helper-screens.php:499
+msgid "Add an ordering button on a page"
+msgstr "Ajouter un bouton de commande sur une page"
+
+#: includes/admin/helper/class-glf-helper-screens.php:496
+msgid "Online Ordering"
+msgstr "Commande en ligne"
+
+#: includes/admin/helper/class-glf-helper-screens.php:483
+msgid "Setup Menu"
+msgstr "Paramètres"
+
+#: includes/admin/helper/class-glf-helper-screens.php:469
+msgid "Setup Restaurant Profile"
+msgstr "Configurer le profil du restaurant"
+
+#: includes/admin/helper/class-glf-helper-screens.php:455
+msgid "Connect to GloriaFood Account"
+msgstr "Connectez-vous au compte GloriaFood"
+
+#: includes/admin/helper/class-glf-helper-screens.php:449
+msgid " min"
+msgstr "minimum"
+
+#: includes/admin/helper/class-glf-helper-screens.php:450
+msgid " min per menu item"
+msgstr "minimum par élément de menu"
+
+#. Plugin Name of the plugin
+#: includes/modules/widgets/class-glf-mor-widget.php:22
+msgid "Menu - Ordering - Reservations"
+msgstr "Menu - Commande - Réservations"
+
+#. Plugin URI of the plugin
+msgid "https://www.gloriafood.com/wordpress-restaurant-plugin"
+msgstr "https://www.gloriafood.com/wordpress-restaurant-plugin"
+
+#. Author of the plugin
+msgid "GloriaFood"
+msgstr "GloriaFood"
+
+#. Author URI of the plugin
+msgid "https://www.gloriafood.com/"
+msgstr "https://www.gloriafood.com/"
+
+#: includes/admin/class-glf-admin-screens.php:376
+#: includes/admin/overview/overview_authenticate.php:54
+#: includes/admin/overview/overview_authenticate.php:112
+#: includes/admin/overview/overview_authenticate.php:152
+#: includes/admin/settings/settings.php:198
+msgid "Email"
+msgstr "Email"
+
+#: includes/admin/class-glf-admin-screens.php:379
+#: includes/admin/overview/overview_authenticate.php:60
+#: includes/admin/overview/overview_authenticate.php:170
+msgid "Password"
+msgstr "Mot de Passe"
+
+#: includes/admin/class-glf-admin-screens.php:382
+msgid "Restaurant name"
+msgstr "Nom de votre Restaurant"
+
+#: includes/admin/class-glf-admin-screens.php:385
+msgid "First name"
+msgstr "Prénom"
+
+#: includes/admin/class-glf-admin-screens.php:388
+msgid "Last name"
+msgstr "Nom"
+
+#: includes/admin/overview/overview_authenticate.php:204
+msgid "By signing up you agree to our"
+msgstr "En vous inscrivant, vous acceptez notre"
+
+#: includes/admin/overview/overview_authenticate.php:109
+#: includes/admin/screens/screen_options.php:54
+msgid "Reset password"
+msgstr "Réinitialiser le mot de passe"
+
+#: includes/admin/overview/overview_authenticate.php:92
+#: includes/admin/overview/overview_authenticate.php:131
+#: includes/admin/screens/screen_options.php:60
+msgid "Login"
+msgstr "Identifiant"
+
+#: includes/admin/helper/class-glf-helper-screens.php:625
+msgid "Online Payments"
+msgstr "Paiements en ligne"
+
+#: includes/modules/ask-for-review/class-glf-module-ask-for-review.php:261
+msgid "I already did"
+msgstr "Je l’ai déjà fait"
+
+#: includes/modules/ask-for-review/class-glf-module-ask-for-review.php:260
+msgid "Maybe later"
+msgstr "Peut-être plus tard"
+
+#: includes/modules/ask-for-review/class-glf-module-ask-for-review.php:259
+msgid "Sure thing"
+msgstr "Chose sûre"
+
+#: includes/modules/elementor/class-glf-module-elementor.php:60
+msgid "Gloria Food - Restaurant"
+msgstr "Gloria Food - Restaurant"
+
+#: includes/modules/elementor/widgets/menu-ordering/class-glf-widget-ordering.php:40
+#: includes/modules/gutenberg/assets/js/menu-ordering/index.js:34
+msgid "Ordering"
+msgstr "Commande"
+
+#: includes/modules/elementor/widgets/food-menu/class-glf-module-elementor-food-menu-widget.php:36
+#: includes/modules/gutenberg/assets/js/food-menu/index.js:35
+msgid "Food Menu"
+msgstr "Menu Food"
+
+#: includes/modules/elementor/widgets/food-menu/class-glf-module-elementor-food-menu-widget.php:100
+#: includes/modules/elementor/widgets/menu-ordering/class-glf-module-elementor-ordering-widget.php:92
+#: includes/modules/elementor/widgets/reservations/class-glf-module-elementor-reservations-widget.php:92
+msgid "Additional CSS class(es)"
+msgstr "Classe(s) CSS additionnelle(s)"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:106
+#: includes/modules/elementor/widgets/food-menu/class-glf-module-elementor-food-menu-widget.php:90
+#: includes/modules/elementor/widgets/menu-ordering/class-glf-module-elementor-ordering-widget.php:83
+#: includes/modules/elementor/widgets/opening-hours/class-glf-module-elementor-opening-hours-widget.php:90
+#: includes/modules/elementor/widgets/promotions/class-glf-module-elementor-promotions-widget.php:90
+#: includes/modules/elementor/widgets/reservations/class-glf-module-elementor-reservations-widget.php:83
+#: includes/modules/gutenberg/assets/js/food-menu/index.js:81
+#: includes/modules/gutenberg/assets/js/menu-ordering/index.js:75
+#: includes/modules/gutenberg/assets/js/opening-hours/index.js:86
+#: includes/modules/gutenberg/assets/js/promotions/index.js:106
+#: includes/modules/gutenberg/assets/js/reservations/index.js:76
+msgid "Select restaurant"
+msgstr "Sélectionnez un restaurant"
+
+#: includes/modules/elementor/widgets/base/class-glf-widget-button-base.php:97
+#: includes/modules/elementor/widgets/food-menu/class-glf-module-elementor-food-menu-widget.php:81
+#: includes/modules/elementor/widgets/menu-ordering/class-glf-module-elementor-ordering-widget.php:74
+#: includes/modules/elementor/widgets/opening-hours/class-glf-module-elementor-opening-hours-widget.php:81
+#: includes/modules/elementor/widgets/promotions/class-glf-module-elementor-promotions-widget.php:81
+#: includes/modules/elementor/widgets/reservations/class-glf-module-elementor-reservations-widget.php:74
+msgid "Settings"
+msgstr "Paramètres"
+
+#: includes/admin/helper/class-glf-helper-screens.php:512
+#: includes/modules/elementor/widgets/reservations/class-glf-widget-reservations.php:40
+#: includes/modules/shortcodes/class-glf-module-shortcodes.php:223
+#: includes/modules/gutenberg/assets/js/reservations/index.js:36
+msgid "Reservations"
+msgstr "Réservations"
+
+#: includes/modules/classic-editor-mce/mce/media-button.php:58
+msgid "Insert button code"
+msgstr "Insérer le code du bouton"
+
+#: includes/modules/classic-editor-mce/mce/media-button.php:57
+msgid "Cancel"
+msgstr "Annuler"
+
+#: includes/modules/classic-editor-mce/mce/media-button.php:43
+msgid "Table reservations"
+msgstr "Réservations de tables"
+
+#: includes/modules/classic-editor-mce/mce/media-button.php:30
+msgid "Restaurant menu and ordering"
+msgstr "Menu du restaurant et commande"
+
+#: includes/admin/settings/settings.php:129
+msgid "Menu Shortcode"
+msgstr "Shortcode Menu"
+
+#: includes/admin/settings/settings.php:106
+#: includes/admin/settings/settings.php:118
+#: includes/admin/settings/settings.php:134
+#: includes/admin/settings/settings.php:154
+#: includes/admin/settings/settings.php:174
+msgid "Copy"
+msgstr "Copier"
+
+#: includes/admin/settings/settings.php:102
+#: includes/admin/settings/settings.php:114
+msgid "Customize"
+msgstr "Personnaliser"
+
+#: includes/admin/settings/settings.php:95
+msgid "Shortcode"
+msgstr "Shortcode "
+
+#: includes/admin/settings/settings.php:94
+msgid "Button Preview"
+msgstr "Aperçu"
+
+#: includes/modules/widgets/class-glf-mor-widget.php:103
+msgid "Use custom CSS class"
+msgstr "Utiliser une classe CSS personnalisée"
+
+#: includes/modules/shortcodes/class-glf-module-shortcodes.php:224
+#: includes/modules/widgets/class-glf-mor-widget.php:97
+msgid "Table Reservations"
+msgstr "Réservations de tables"
+
+#: includes/modules/widgets/class-glf-mor-widget.php:92
+msgid "See MENU & Order"
+msgstr "Voir Menu & Commander"
+
+#: includes/admin/overview/overview.php:23
+#: includes/admin/settings/settings.php:70
+#: includes/modules/widgets/class-glf-mor-widget.php:82
+msgid "Restaurant"
+msgstr "Restaurant"
+
+#: includes/modules/widgets/class-glf-mor-widget.php:19
+msgid "See MENU & Order  or Table Reservations"
+msgstr "Voir Menu & Commande ou Réservation de table"
+
+#: includes/admin/helper/class-glf-helper-screens.php:609
+msgid "Facebook Ordering"
+msgstr "Commande Facebook"
+
+#: includes/admin/overview/overview_screen_options.php:170
+#: includes/admin/screens/screen_options.php:32
+msgid "Premium"
+msgstr "Premium"
+
+#. Description of the plugin
+msgid "This plugin is all you need to turn your restaurant website into an online business. Using a simple and friendly interface you get a restaurant menu, online food ordering and restaurant booking system. All free, no fees, no hidden costs, no commissions - for unlimited food orders and restaurant reservations."
+msgstr "Ce plugin est tout ce dont vous avez besoin pour transformer votre site Web de restaurant dans une entreprise en ligne. À l'aide d'une interface simple et conviviale, vous obtenez un menu de restaurant, une commande de nourriture en ligne et un système de réservation de restaurant. Tout est gratuit, sans frais, sans frais cachés, sans commissions - pour les commandes de nourriture illimitées et les réservations de restaurant."
